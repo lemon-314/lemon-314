@@ -5,7 +5,8 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I'm a student.
-- 💭bilibili: ()[https://space.bilibili.com/1353460942]
+
+- 💭bilibili: https://space.bilibili.com/1353460942
 
 <!--
 **lemon-314/lemon-314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
