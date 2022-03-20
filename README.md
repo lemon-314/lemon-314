@@ -1,4 +1,4 @@
-### Hi there 👋
+### ヾ(•ω•`)o Hi there 👋
 - 🌱 I’m currently learning Python
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
